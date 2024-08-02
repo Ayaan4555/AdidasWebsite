@@ -1,0 +1,272 @@
+
+
+@import 
+url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kalam&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.navbar{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	
+	
+	
+}
+
+.logo img{
+	width: 80px;
+	margin-top: 20px;
+	padding-left: 20px;
+		
+}
+
+.anchors ul{
+	display: flex;
+	gap: 20px;
+	
+	
+}
+
+.anchors a{
+
+	text-decoration: none;
+	color: black;
+}
+
+.anchors{
+	margin-top: 40px;
+}
+
+.icon{
+	margin-top: 40px;
+}
+
+.men{
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 15px;
+}
+
+.women{
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 15px;
+}
+
+.kids{
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 15px;
+}
+
+.sports{
+	text-transform: uppercase;
+	font-weight: 100;
+	font-size: 15px;
+	
+	
+}
+
+.brand{
+	text-transform: uppercase;
+	font-weight: 100;
+	font-size: 15px;
+}
+
+.collection{
+	text-transform: uppercase;
+	font-weight: 100;
+	font-size: 15px;
+}
+
+.outlet{
+	text-transform: uppercase;
+	font-weight: 100;
+	font-size: 15px;
+	
+	
+}
+
+.outlet a{
+	color: red;
+}
+
+
+.icon{
+	padding-right: 30px;
+	
+}
+
+.icon{
+	display: flex;
+	gap: 15px;
+	align-items: center;
+}
+
+.icon input{
+	border: none;
+	background-color:#ECEFF1;
+	padding: 10px;
+	
+}
+
+.anchors a:hover{
+	border-bottom: 3px solid black;
+	
+}
+
+.almost h2{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.almostcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.text p{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.availablecontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E2E2DB;
+    padding: 20px;
+}
+
+.banner{
+    background-color: #eeeee2;
+}
+
+.banner a{
+    text-decoration: none;
+    
+    padding-left: 10px;
+    margin-top: 20px;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    box-shadow: 3px 3px black;
+    
+    
+}
+
+.bannercontainer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.bannerimage{
+    width: 600px;
+    height: 600px;
+}
+
+.name{
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0px 0px 42px;
+    color: #2E3238;
+    letter-spacing: 2px;
+    
+}
+
+.slate{
+    color: #2E3238;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0px 0px 42px;
+    letter-spacing: 2px;
+
+}
+
+.price{
+    color: #2E3238;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0px 0px 42px;
+    letter-spacing: 2px;
+
+}
+
+.discount{
+    color: #2E3238;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0px 0px 42px;
+    letter-spacing: 2px;
+
+}
+
+
+.norefund{
+    color: #2E3238;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0px 0px 42px;
+    letter-spacing: 2px;
+}
+
+.inform{
+    color: #2E3238;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0px 0px 42px;
+    letter-spacing: 2px;
+}
+
+.size{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-right: 15px;
+    font-size: 20px;
+   
+}
+
+
+
+.bag{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-right: 15px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+.footer{
+	margin-top: 60px;
+}
+
+.footercontainer ul{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #282C31;
+	color:#D3D7DA;
+	padding:40px;
+}
+
+li{
+	margin: 15px 0px;
+	padding: 0px 15px;
+}

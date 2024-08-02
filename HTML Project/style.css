@@ -1,0 +1,564 @@
+
+@import 
+url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kalam&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+.navbar{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	
+	
+	
+}
+
+.logo img{
+	width: 80px;
+	margin-top: 20px;
+	padding-left: 20px;
+		
+}
+
+.anchors ul{
+	display: flex;
+	gap: 20px;
+	
+	
+}
+
+.anchors a{
+
+	text-decoration: none;
+	color: black;
+}
+
+.anchors{
+	margin-top: 40px;
+}
+
+.icon{
+	margin-top: 40px;
+}
+
+.men{
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 15px;
+}
+
+.women{
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 15px;
+}
+
+.kids{
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 15px;
+}
+
+.sports{
+	text-transform: uppercase;
+	font-weight: 100;
+	font-size: 15px;
+	
+	
+}
+
+.brand{
+	text-transform: uppercase;
+	font-weight: 100;
+	font-size: 15px;
+}
+
+.collection{
+	text-transform: uppercase;
+	font-weight: 100;
+	font-size: 15px;
+}
+
+.outlet{
+	text-transform: uppercase;
+	font-weight: 100;
+	font-size: 15px;
+	
+	
+}
+
+.outlet a{
+	color: red;
+}
+
+
+.icon{
+	padding-right: 30px;
+	
+}
+
+.icon{
+	display: flex;
+	gap: 15px;
+	align-items: center;
+}
+
+.icon input{
+	border: none;
+	background-color:#ECEFF1;
+	padding: 10px;
+	
+}
+
+.anchors a:hover{
+	border-bottom: 3px solid black;
+	
+}
+
+
+.yeezy img{
+	width: 100%;
+	margin-top: 20px;
+}
+
+.info p {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.info , .yinfo{
+	font-size: 30px;
+	margin-top: 10px;
+}
+
+.info a{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-decoration: none;
+}
+
+.info button{
+	padding: 10px 25px;
+	background-color: black;
+	color: white;
+	border-radius: 5px;
+	margin-top: 10px;
+	text-transform: capitalize;
+	font-size: 20px;
+	margin-bottom: 50px;
+}
+
+.info button:hover{
+	color: gray;
+}
+
+.content h2{
+	margin-top: 30px;
+	padding-left: 50px;
+	font-size: 30px;
+	font-weight: 700;
+	letter-spacing: 1.5px;
+	margin-bottom: 50px;
+}
+
+
+.maincontent , .spans{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+
+}
+
+.samba{
+	font-size: 40px;
+	border-bottom: 2px solid black;
+	margin: 0px 48px -1px 0px;
+	padding: 0px 0px 6.4px;
+	font-weight: 700;
+}
+
+.runningshoes{
+	font-size: 40px;
+	border-bottom: 2px solid black;
+	margin: 0px 48px -1px 0px;
+	padding: 0px 0px 6.4px;
+	font-weight: 700;
+	
+}
+
+.nmd{
+	font-size: 40px;
+	border-bottom: 2px solid black;
+	margin: 0px 48px -1px 0px;
+	padding: 0px 0px 6.4px;
+	font-weight: 700;
+	
+
+}
+
+.spans{
+	margin-bottom: 50px;
+}
+
+.maincontent , .spans2{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.backpack{
+	font-size: 40px;
+	border-bottom: 2px solid black;
+	margin: 0px 48px -1px 0px;
+	padding: 0px 0px 6.4px;
+	font-weight: 700;
+
+}
+
+.sandals{
+	font-size: 40px;
+	border-bottom: 2px solid black;
+	margin: 0px 48px -1px 0px;
+	padding: 0px 0px 6.4px;
+	font-weight: 700;
+}
+
+.bag{
+	font-size: 40px;
+	border-bottom: 2px solid black;
+	margin: 0px 48px -1px 0px;
+	padding: 0px 0px 6.4px;
+	font-weight: 700;
+}
+
+.samba:hover{
+	border-bottom: 7.5px solid black;
+    
+}
+
+.runningshoes:hover{
+	border-bottom: 7.5px solid black;
+}
+
+.nmd:hover{
+	border-bottom: 7.5px solid black;
+}
+
+.backpack:hover{
+	border-bottom: 7.5px solid black;
+}
+
+.bag:hover{
+	border-bottom: 7.5px solid black;
+}
+
+.sandals:hover{
+	border-bottom: 7.5px solid black;
+}
+
+.content1 h1{
+	padding-left: 50px;
+	font-size: 30px;
+	margin-bottom: 30px;
+	margin-top: 100px;
+
+}
+
+.men img{
+	width: 400px;
+	height: 500px;
+	
+}
+
+.women img{
+	width: 400px;
+	height: 500px;
+}
+
+.kids img{
+	width: 400px;
+	height: 500px;
+}
+
+.humans{
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.men p{
+	margin-top: 15px;
+	font-size: 20px;
+
+}
+
+.women p{
+	margin-top: 15px;
+	font-size: 20px;
+
+}
+
+.kids p{
+	margin-top: 15px;
+	font-size: 20px;
+}
+
+.shoes h2{
+	margin-top: 70px;
+	padding-left: 50px;
+	font-size: 30px;
+	margin-bottom: 30px;
+}
+
+.shoescontainer{
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+ .kidsog{
+	color: #767677;
+}
+
+.shoe1:hover{
+	border: 2px solid black;
+}
+
+.shoe2:hover{
+	border: 2px solid black;
+}
+
+
+.shoe3:hover{
+	border: 2px solid black;
+}
+
+.shoe4:hover{
+	border: 2px solid black;
+}
+
+
+.bcci img{
+	width: 300px;
+	height: 400px;
+}
+
+.switchfwd img{
+	width: 300px;
+	height: 400px;
+}
+
+.alwaysinstyle img{
+	width: 300px;
+	height: 400px;
+}
+
+.collection23 img{
+	width: 300px;
+	height: 400px;
+
+}
+
+.Hotcontainer{
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.gray{
+	font-size: 13px;
+	font-weight: 300;
+	letter-spacing: 1px;
+}
+
+.WhatsHot h2{
+	font-size: 40px;
+	margin-bottom: 20px;
+	margin-top: 200px;
+	padding-left: 50px;
+}
+
+.caption{
+	font-weight: 600;
+	margin-top: 10px;
+}
+
+.shop{
+	text-decoration: none;
+	border-bottom: 2px solid black;
+	color: black;
+	word-spacing:2px;
+	letter-spacing: 2px;
+	font-size: 14px;
+}
+
+.shop:hover{
+	background-color: black;
+	color: white;
+}
+
+.sellercontainer{
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.caption2{
+	font-size: 14px;
+	margin-top: 15px;
+}
+
+.caption21{
+	font-size: 14px;
+}
+
+.smallcap{
+	color: #767677;
+	font-size: 14px;
+}
+
+
+.bestsellers h2{
+	font-size: 40px;
+	margin-bottom: 20px;
+	margin-top: 150px;
+	padding-left: 50px;
+}
+
+.arsenal:hover{
+	border: 3px solid black;
+	
+}
+
+.flipflop:hover{
+	border: 3px solid black;
+	
+}
+
+.realmadrid:hover{
+	border: 3px solid black;
+	
+}
+
+.mickeymouse:hover{
+	border: 3px solid black;
+	
+}
+
+.article1 h2{
+	font-size: 30px;
+	font-weight: 800;
+}
+
+.article1 p{
+	font-size: 16px;
+	font-weight: 300;
+	letter-spacing: 1px;
+	word-spacing: 2px;
+	padding: 20px;
+}
+
+.article2 h2{
+	font-size: 30px;
+	font-weight: 800;
+}
+
+.article2 p{
+	font-size: 16px;
+	font-weight: 300;
+	letter-spacing: 1px;
+	word-spacing: 2px;
+	padding: 20px;
+}
+
+.infocontainer{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 50px;
+	
+}
+
+
+.joinadidas h2{
+	font-size: 30px;
+	margin: 0px 40px 15px 0px;
+	font-weight: 800;
+	word-spacing: 2px;
+	letter-spacing: 1px;
+}
+
+ .joinadidas{
+	margin-top: 80px;
+	background-color: #EDE734;
+	width: 100%;
+	padding: 50px; 
+} 
+
+.joinadidas a{
+
+	text-decoration: none;
+	background-color: black;
+	color: white;
+	padding: 20px;
+	box-shadow: 2px 2px 12px black;
+	letter-spacing: 2px;
+	word-spacing: 2px;
+	
+}
+
+.joinadidas a:hover{
+	color: #767677;
+}
+
+.joinadidas{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.gototop a{
+	text-transform: capitalize;
+	text-decoration: none;
+	background-color: black;
+	padding: 20px;
+	box-shadow: 4px 4px  black;
+	color: white;
+}
+
+.gototop a:hover{
+	color: #767677;
+
+}
+
+
+.buttontop{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.footer{
+	margin-top: 60px;
+}
+
+.footercontainer ul{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #282C31;
+	color:#D3D7DA;
+	padding:40px;
+}
+
+li{
+	margin: 15px 0px;
+	padding: 0px 15px;
+}
